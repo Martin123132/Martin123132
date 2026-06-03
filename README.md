@@ -1,18 +1,18 @@
-# Hey, I build practical AI systems that are harder to break and easier to ship.
+# I build practical systems where AI, physics, and engineering constraints meet.
 
 I’m focused on:
 
-- AI evaluation and benchmarking that can be reproduced.
-- Infrastructure for distributed AI tooling and agent workflows.
-- Safety-first gates for AI product launches.
-- Useful dashboards and local-first utilities that keep projects maintainable.
+- Engineering systems that turn physics ideas into testable, reproducible software.
+- AI infrastructure for distributed tooling and agent workflows.
+- Safety-first evaluation and guardrails for model behavior.
+- Dashboards and utilities that keep complex projects maintainable.
 
-If you’re here to collaborate, hire, or review real-world systems, start with the work below.
+If you’re here to collaborate, sponsor, or review real-world systems, start with the work below.
 
 ## 🚪 What I’m working on right now
 
 - [ChatP2P](https://github.com/Martin123132/ChatP2P) — peer-contributed AI compute with signed nodes/jobs, verified results, and credit-based coordination.
-- [RepoMori](https://github.com/Martin123132/RepoMori) — hardened Python project with CI and memory-anchored workflows for reliable AI tooling.
+- [Motion-TimeSpace-](https://github.com/Martin123132/Motion-TimeSpace-) — an engineer-first research workspace connecting physical modeling work with reproducible computational tools.
 - [The Marked Bench](https://github.com/Martin123132/The-Marked-Bench-) — a versioned benchmark framework for contradiction-detection and AI reasoning evaluation.
 - [The Gauntlet](https://github.com/Martin123132/The-Gauntlet-) — a local-first paper stress-testing tool that returns transparent `RESOLVES / PARTIAL / FAILS / CREATES_NEW_PARADOXES` verdicts.
 
@@ -29,9 +29,8 @@ If you’re here to collaborate, hire, or review real-world systems, start with 
 ## 📌 Suggested profile pin set (top 6 for now)
 
 1. https://github.com/Martin123132/ChatP2P  
-2. https://github.com/Martin123132/RepoMori  
+2. https://github.com/Martin123132/Motion-TimeSpace-  
 3. https://github.com/Martin123132/The-Marked-Bench-  
 4. https://github.com/Martin123132/The-Gauntlet-  
 5. https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn  
 6. https://github.com/Martin123132/sentinel-manifold-public
-
