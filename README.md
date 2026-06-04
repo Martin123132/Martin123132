@@ -1,15 +1,15 @@
-# I build practical systems where AI, physics, and engineering constraints meet.
+# I build practical systems where physics thinking, engineering, and AI systems meet.
 
-I’m focused on:
+If you are looking for someone who ships things, this is where the work lives:
 
-- Engineering systems that turn physics ideas into testable, reproducible software.
-- AI infrastructure for distributed tooling and agent workflows.
-- Safety-first evaluation and guardrails for model behavior.
-- Dashboards and utilities that keep complex projects maintainable.
+- I turn complex research into repeatable engineering artifacts.
+- I build distributed AI tooling with integrity checks, observability, and reproducibility.
+- I ship safety and reliability tooling for model workflows.
+- I focus on practical systems: useful, testable, and maintainable.
 
-If you’re here to collaborate, sponsor, or review real-world systems, start with the work below.
+If you want to collaborate, review real work, or discuss what I can build next, start here.
 
-## 🚪 What I’m working on right now
+## 🚪 Start here: what I’m building right now
 
 - [ChatP2P](https://github.com/Martin123132/ChatP2P) — peer-contributed AI compute with signed nodes/jobs, verified results, and credit-based coordination.
 - [Motion-TimeSpace-](https://github.com/Martin123132/Motion-TimeSpace-) — an engineer-first research workspace connecting physical modeling work with reproducible computational tools.
@@ -26,11 +26,17 @@ If you’re here to collaborate, sponsor, or review real-world systems, start wi
 - Looking for engineering collaboration? Open an issue on one of the repos above.
 - Prefer quick outreach: mention your use case and what you need shipped.
 
-## 📌 Suggested profile pin set (top 6 for now)
+## 🧩 Current proof points
 
-1. https://github.com/Martin123132/ChatP2P  
-2. https://github.com/Martin123132/Motion-TimeSpace-  
-3. https://github.com/Martin123132/The-Marked-Bench-  
-4. https://github.com/Martin123132/The-Gauntlet-  
-5. https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn  
-6. https://github.com/Martin123132/sentinel-manifold-public
+1. [ChatP2P](https://github.com/Martin123132/ChatP2P)  
+2. [Motion-TimeSpace-](https://github.com/Martin123132/Motion-TimeSpace-)  
+3. [The-Marked-Bench-](https://github.com/Martin123132/The-Marked-Bench-)  
+4. [The-Gauntlet-](https://github.com/Martin123132/The-Gauntlet-)  
+5. [Tokometer](https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn)  
+6. [Sentinel Manifold](https://github.com/Martin123132/sentinel-manifold-public)
+
+## What I’m open to
+
+- Collaborations on production-oriented AI/engineering systems
+- Technical contributors for benchmarking, infra, and observability
+- Freelance or contract work where reliability and clarity matter
