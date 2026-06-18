@@ -1,42 +1,51 @@
-# I build practical systems where physics thinking, engineering, and AI systems meet.
+# Martin Ollett
 
-If you are looking for someone who ships things, this is where the work lives:
+I build local-first AI systems, evaluation tools, and practical engineering products.
 
-- I turn complex research into repeatable engineering artifacts.
-- I build distributed AI tooling with integrity checks, observability, and reproducibility.
-- I ship safety and reliability tooling for model workflows.
-- I focus on practical systems: useful, testable, and maintainable.
+The strongest thread across the work is simple: make AI agents cheaper to run,
+easier to inspect, harder to fool, and safer to trust with real code and real
+decisions.
 
-If you want to collaborate, review real work, or discuss what I can build next, start here.
+## Start Here
 
-## 🚪 Start here: what I’m building right now
+- [Memento Mori Jester](https://github.com/Martin123132/Memento-Mori): a local MCP/CLI sidecar that reviews agent plans, commands, diffs, and final claims before risky work ships.
+- [AgentLedger](https://github.com/Martin123132/AgentLedger): a local-first black box recorder for AI coding agents, with command evidence, repo state, audit reports, and handoff bundles.
+- [TokenSquash](https://github.com/Martin123132/TokenSquash): a measurable prompt/reply codec and evidence harness for testing whether repeated agent traffic can be shortened without losing meaning.
+- [RepoMori](https://github.com/Martin123132/RepoMori): machine-readable repository packs for AI agents and local tools, built around exact source recovery and compact context.
+- [ManifoldGuard](https://github.com/Martin123132/ManifoldGuard): a reference-bounded output regulator for checking candidate outputs against supplied semantic and relational structure.
+- [The Gauntlet](https://github.com/Martin123132/The-Gauntlet-): a local-first paper and theory stress tester with transparent rule-based verdicts and source-grounded reports.
 
-- [ChatP2P](https://github.com/Martin123132/ChatP2P) — peer-contributed AI compute with signed nodes/jobs, verified results, and credit-based coordination.
-- [Motion-TimeSpace-](https://github.com/Martin123132/Motion-TimeSpace-) — an engineer-first research workspace connecting physical modeling work with reproducible computational tools.
-- [The Marked Bench](https://github.com/Martin123132/The-Marked-Bench-) — a versioned benchmark framework for contradiction-detection and AI reasoning evaluation.
-- [The Gauntlet](https://github.com/Martin123132/The-Gauntlet-) — a local-first paper stress-testing tool that returns transparent `RESOLVES / PARTIAL / FAILS / CREATES_NEW_PARADOXES` verdicts.
+## Current Product Direction
 
-## 🧭 Additional projects I’m proud of
+I am converging the public work into a local AI agent control stack:
 
-- [Tokometer](https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn) — local Codex token-burn observability with usage dashboards and alerts.
-- [Sentinel Manifold](https://github.com/Martin123132/sentinel-manifold-public) — an attention-first AI Guardrail Gateway with CI and Render deployment.
+- memory and context: RepoMori
+- execution evidence: AgentLedger
+- safety review: Memento Mori Jester
+- token and usage pressure: TokenSquash and Tokometer
+- output grounding: ManifoldGuard
+- evaluation and stress tests: The Gauntlet, The Marked Bench, and the consequence-agent benchmark work
 
-## 📬 Let's build something useful
+The private work continues this same direction through AIOS, MiddleOut, and
+consequence-memory systems.
 
-- Looking for engineering collaboration? Open an issue on one of the repos above.
-- Prefer quick outreach: mention your use case and what you need shipped.
+## Other Useful Builds
 
-## 🧩 Current proof points
+- [Tokometer](https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn): a local usage gauge for Codex token burn, rate limits, history, alerts, and exports.
+- [The Marked Bench](https://github.com/Martin123132/The-Marked-Bench-): a versioned contradiction-detection benchmark for AI reasoning evaluation.
+- [Rolefit CV](https://github.com/Martin123132/Rolefit-cv): a local-first CV and job-fit assistant that keeps claims grounded in real evidence.
+- [ChatP2P](https://github.com/Martin123132/ChatP2P): peer-contributed AI compute with signed nodes/jobs, verified results, and credit-based coordination.
+- [Motion-TimeSpace](https://github.com/Martin123132/Motion-TimeSpace-): a research workspace connecting physics thinking with reproducible computational tools.
 
-1. [ChatP2P](https://github.com/Martin123132/ChatP2P)  
-2. [Motion-TimeSpace-](https://github.com/Martin123132/Motion-TimeSpace-)  
-3. [The-Marked-Bench-](https://github.com/Martin123132/The-Marked-Bench-)  
-4. [The-Gauntlet-](https://github.com/Martin123132/The-Gauntlet-)  
-5. [Tokometer](https://github.com/Martin123132/Tokometer-a-real-usage-gauge-for-Codex-OpenAI-token-burn)  
-6. [Sentinel Manifold](https://github.com/Martin123132/sentinel-manifold-public)
+## What I Care About
 
-## What I’m open to
+- Local-first tools that users can inspect and run themselves.
+- Evidence over vague claims.
+- Practical release gates, tests, and reproducible demos.
+- AI systems that remember what happened, show their work, and admit limits.
 
-- Collaborations on production-oriented AI/engineering systems
-- Technical contributors for benchmarking, infra, and observability
-- Freelance or contract work where reliability and clarity matter
+## Open To
+
+- Collaboration on AI agent tooling, benchmarks, safety, observability, and local-first products.
+- Technical review of the public tools above.
+- Contract or freelance work where reliability, clarity, and shipped artifacts matter.
