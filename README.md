@@ -1,4 +1,4 @@
-# Martin Ollett
+
 
 I build local-first AI systems, evaluation tools, and practical engineering products.
 
